@@ -80,6 +80,33 @@ def main(indice):
         # Renomeia as colunas utilizando clean_column_name
         df = df.rename(columns=clean_column_name)
 
+        # Renomeando os eventos
+        df['Setor'] = df['Setor'].replace('Bens Indls / Máqs e Equips', 'Bens Indls / Maqs e Equips')
+        df['Setor'] = df['Setor'].replace('Cons N  Básico / Alimentos Processados', 'Cons N  Basico / Alimentos Processados')
+        df['Setor'] = df['Setor'].replace('Cons N Cíclico / Bebidas', 'Cons N Ciclico / Bebidas')
+        df['Setor'] = df['Setor'].replace('Cons N Cíclico / Comércio Distr.', 'Cons N Ciclico / Comercio Distr.')
+        df['Setor'] = df['Setor'].replace('Cons N Cíclico / Pr Pessoal Limp', 'Cons N Ciclico / Pr Pessoal Limp')
+        df['Setor'] = df['Setor'].replace('Cons N Ciclico/Agropecuária', 'Cons N Ciclico/Agropecuaria')
+        df['Setor'] = df['Setor'].replace('Consumo Cíclico / Comércio', 'Consumo Ciclico / Comercio')
+        df['Setor'] = df['Setor'].replace('Consumo Cíclico / Tecid Vest Calç', 'Consumo Ciclico / Tecid Vest Calc')
+        df['Setor'] = df['Setor'].replace('Consumo Cíclico/Constr Civil', 'Consumo Ciclico/Constr Civil')
+        df['Setor'] = df['Setor'].replace('Consumo Cíclico/Viagens e Lazer', 'Consumo Ciclico/Viagens e Lazer')
+        df['Setor'] = df['Setor'].replace('Financ e Outros / Explor Imóveis', 'Financ e Outros / Explor Imoveis')
+        df['Setor'] = df['Setor'].replace('Financeiro e Outros/Serviços Financeiros Diversos', 'Financeiro e Outros/Servicos Financeiros Diversos')
+        df['Setor'] = df['Setor'].replace('Mats Básicos / Madeira e Papel', 'Mats Basicos / Madeira e Papel')
+        df['Setor'] = df['Setor'].replace('Mats Básicos / Mineração', 'Mats Basicos / Mineracao')
+        df['Setor'] = df['Setor'].replace('Mats Básicos / Químicos', 'Mats Basicos / Quimicos')
+        df['Setor'] = df['Setor'].replace('Mats Básicos / Sid Metalurgia', 'Mats Basicos / Sid Metalurgia')
+        df['Setor'] = df['Setor'].replace('Petróleo/ Gás e Biocombustíveis', 'Petroleo/ Gas e Biocombustiveis')
+        df['Setor'] = df['Setor'].replace('Saúde/Comércio Distr.', 'Saude/Comercio Distr.')
+        df['Setor'] = df['Setor'].replace('Saúde/SM Hosp An.Diag', 'Saude/SM Hosp An.Diag')
+        df['Setor'] = df['Setor'].replace('Tec.Informação/Programas Servs', 'Tec.Informacao/Programas Servs')
+        df['Setor'] = df['Setor'].replace('Telecomunicação', 'Telecomunicacao')
+        df['Setor'] = df['Setor'].replace('Utilidade Públ / Água Saneamento', 'Utilidade Publ / Agua Saneamento')
+        df['Setor'] = df['Setor'].replace('Utilidade Públ / Energ Elétrica', 'Utilidade Publ / Energ Eletrica')
+        df['Setor'] = df['Setor'].replace('Tec.Informação/Programas Servs', 'Tec.Informacao/Programas Servs')
+        df['Setor'] = df['Setor'].replace('Tec.Informação/Programas Servs', 'Tec.Informacao/Programas Servs')
+
         # Salva o CSV já limpo
         df.to_csv("../src/ibov_atual.csv", sep=';', index=False, encoding='UTF-8')
         
