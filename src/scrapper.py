@@ -109,6 +109,9 @@ def main(indice):
 
         # Salva o CSV já limpo
         df.to_csv("../src/ibov_atual.csv", sep=';', index=False, encoding='UTF-8')
+
+        # Salva o Parquet já limpo
+        df.to_parquet('ibov_atual.parquet', engine='pyarrow')
         
         # Exibe o DataFrame com os nomes das colunas atualizados
         print(df)

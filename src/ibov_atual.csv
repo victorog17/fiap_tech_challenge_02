@@ -1,87 +1,87 @@
 Setor;Codigo;Acao;Tipo;Qtde_Teorica;Part_percentual;Part_Acum_percentual
-Bens Indls / Maqs e Equips;WEGE3;WEG;ON      NM;1482105837;3.343;3.343
-Bens Indls / Mat Transporte;EMBR3;EMBRAER;ON      NM;734632601;1.455;1.455
-Bens Indls/Transporte;AZUL4;AZUL;PN      N2;332825777;0.133;2.033
-Bens Indls/Transporte;CCRO3;CCR SA;ON      NM;995335937;0.589;2.033
-Bens Indls/Transporte;RAIL3;RUMO S.A.;ON      NM;1218352541;1.311;2.033
-Cons N  Basico / Alimentos Processados;BRFS3;BRF SA;ON      NM;835221269;0.836;3.001
-Cons N  Basico / Alimentos Processados;JBSS3;JBS;ON      NM;1134986472;1.69;3.001
-Cons N  Basico / Alimentos Processados;MRFG3;MARFRIG;ON      NM;331799687;0.177;3.001
-Cons N  Basico / Alimentos Processados;BEEF3;MINERVA;ON      NM;261036182;0.082;3.001
-Cons N  Basico / Alimentos Processados;SMTO3;SAO MARTINHO;ON      NM;142348116;0.216;3.001
-Cons N Ciclico / Bebidas;ABEV3;AMBEV S/A;ON  ATZ;4394245879;2.458;2.458
-Cons N Ciclico / Comercio Distr.;ASAI3;ASSAI;ON      NM;1349217892;0.678;0.992
-Cons N Ciclico / Comercio Distr.;CRFB3;CARREFOUR BR;ON      NM;533990587;0.261;0.992
-Cons N Ciclico / Comercio Distr.;PCAR3;P.ACUCAR-CBD;ON      NM;379400826;0.053;0.992
-Cons N Ciclico / Pr Pessoal Limp;NTCO3;GRUPO NATURA;ON      NM;849346756;0.61;0.61
-Cons N Ciclico/Agropecuaria;SLCE3;SLC AGRICOLA;ON      NM;194217908;0.179;0.179
-Consumo Ciclico / Comercio;ARZZ3;AREZZO CO;ON  ED  NM;62305891;0.155;1.165
-Consumo Ciclico / Comercio;SOMA3;GRUPO SOMA;ON      NM;496029967;0.148;1.165
-Consumo Ciclico / Comercio;LREN3;LOJAS RENNER;ON      NM;951452770;0.592;1.165
-Consumo Ciclico / Comercio;MGLU3;MAGAZ LUIZA;ON      NM;351757412;0.211;1.165
-Consumo Ciclico / Comercio;PETZ3;PETZ;ON      NM;314729428;0.059;1.165
-Consumo Ciclico / Tecid Vest Calc;ALPA4;ALPARGATAS;PN      N1;166362038;0.07;0.205
-Consumo Ciclico / Tecid Vest Calc;VIVA3;VIVARA S.A.;ON      NM;125912025;0.135;0.205
-Consumo Ciclico/Constr Civil;CYRE3;CYRELA REALT;ON      NM;265784616;0.254;0.436
-Consumo Ciclico/Constr Civil;EZTC3;EZTEC;ON      NM;91514307;0.062;0.436
-Consumo Ciclico/Constr Civil;MRVE3;MRV;ON      NM;375130280;0.12;0.436
+Bens Indls / Maqs e Equips;WEGE3;WEG;ON      NM;1482105837;3.328;3.328
+Bens Indls / Mat Transporte;EMBR3;EMBRAER;ON      NM;734632601;1.35;1.35
+Bens Indls/Transporte;AZUL4;AZUL;PN      N2;332825777;0.133;2.046
+Bens Indls/Transporte;CCRO3;CCR SA;ON      NM;995335937;0.598;2.046
+Bens Indls/Transporte;RAIL3;RUMO S.A.;ON      NM;1218352541;1.315;2.046
+Cons N  Basico / Alimentos Processados;BRFS3;BRF SA;ON      NM;835221269;0.839;3.005
+Cons N  Basico / Alimentos Processados;JBSS3;JBS;ON      NM;1134986472;1.694;3.005
+Cons N  Basico / Alimentos Processados;MRFG3;MARFRIG;ON      NM;331799687;0.178;3.005
+Cons N  Basico / Alimentos Processados;BEEF3;MINERVA;ON      NM;261036182;0.081;3.005
+Cons N  Basico / Alimentos Processados;SMTO3;SAO MARTINHO;ON      NM;142348116;0.213;3.005
+Cons N Ciclico / Bebidas;ABEV3;AMBEV S/A;ON;4394245879;2.47;2.47
+Cons N Ciclico / Comercio Distr.;ASAI3;ASSAI;ON      NM;1349217892;0.687;1.01
+Cons N Ciclico / Comercio Distr.;CRFB3;CARREFOUR BR;ON      NM;533990587;0.272;1.01
+Cons N Ciclico / Comercio Distr.;PCAR3;P.ACUCAR-CBD;ON      NM;379400826;0.051;1.01
+Cons N Ciclico / Pr Pessoal Limp;NTCO3;GRUPO NATURA;ON      NM;849346756;0.608;0.608
+Cons N Ciclico/Agropecuaria;SLCE3;SLC AGRICOLA;ON      NM;194217908;0.176;0.176
+Consumo Ciclico / Comercio;ARZZ3;AREZZO CO;ON      NM;62305891;0.158;1.187
+Consumo Ciclico / Comercio;SOMA3;GRUPO SOMA;ON      NM;496029967;0.151;1.187
+Consumo Ciclico / Comercio;LREN3;LOJAS RENNER;ON      NM;951452770;0.614;1.187
+Consumo Ciclico / Comercio;MGLU3;MAGAZ LUIZA;ON      NM;351757412;0.206;1.187
+Consumo Ciclico / Comercio;PETZ3;PETZ;ON      NM;314729428;0.058;1.187
+Consumo Ciclico / Tecid Vest Calc;ALPA4;ALPARGATAS;PN      N1;166362038;0.07;0.207
+Consumo Ciclico / Tecid Vest Calc;VIVA3;VIVARA S.A.;ON      NM;125912025;0.137;0.207
+Consumo Ciclico/Constr Civil;CYRE3;CYRELA REALT;ON      NM;265784616;0.262;0.448
+Consumo Ciclico/Constr Civil;EZTC3;EZTEC;ON      NM;91514307;0.064;0.448
+Consumo Ciclico/Constr Civil;MRVE3;MRV;ON      NM;375130280;0.122;0.448
 Consumo Ciclico/Viagens e Lazer;CVCB3;CVC BRASIL;ON      NM;525582771;0.047;0.047
-Diversos;COGN3;COGNA ON;ON      NM;1814903540;0.145;2.302
-Diversos;RENT3;LOCALIZA;ON      NM;863138188;1.787;2.302
-Diversos;VAMO3;VAMOS;ON      NM;498860020;0.214;2.302
-Diversos;YDUQ3;YDUQS PART;ON      NM;289347914;0.156;2.302
-Financ e Outros / Explor Imoveis;ALOS3;ALLOS;ON      NM;532616595;0.551;1.089
-Financ e Outros / Explor Imoveis;IGTI11;IGUATEMI S.A;UNT     N1;217622138;0.223;1.089
-Financ e Outros / Explor Imoveis;MULT3;MULTIPLAN;ON      N2;268505432;0.315;1.089
-Financ e Outros / Holdings Divers;ITSA4;ITAUSA;PN      N1;5560910983;2.748;2.748
-Financ e Outros / Interms Financs;BBDC3;BRADESCO;ON      N1;1489259656;0.814;17.506
-Financ e Outros / Interms Financs;BBDC4;BRADESCO;PN      N1;5135772281;3.059;17.506
-Financ e Outros / Interms Financs;BBAS3;BRASIL;ON      NM;2842247534;3.675;17.506
-Financ e Outros / Interms Financs;BPAC11;BTGP BANCO;UNT     N2;1150645866;1.742;17.506
-Financ e Outros / Interms Financs;ITUB4;ITAUUNIBANCO;PN      N1;4740126023;7.745;17.506
-Financ e Outros / Interms Financs;SANB11;SANTANDER BR;UNT EJ;342918449;0.471;17.506
-Financ e Outros / Previd  Seguros;BBSE3;BBSEGURIDADE;ON      NM;671750768;1.093;1.21
-Financ e Outros / Previd  Seguros;IRBR3;IRBBRASIL RE;ON      NM;81838843;0.117;1.21
-Financeiro e Outros/Servicos Financeiros Diversos;B3SA3;B3;ON      NM;5602790110;2.985;3.286
-Financeiro e Outros/Servicos Financeiros Diversos;CIEL3;CIELO;ON      NM;1095462329;0.301;3.286
-Mats Basicos / Madeira e Papel;DXCO3;DEXCO;ON      NM;302768240;0.102;2.597
-Mats Basicos / Madeira e Papel;KLBN11;KLABIN S/A;UNT     N2;777422123;0.797;2.597
-Mats Basicos / Madeira e Papel;SUZB3;SUZANO S.A.;ON      NM;664114223;1.698;2.597
-Mats Basicos / Mineracao;BRAP4;BRADESPAR;PN      N1;250992819;0.227;13.403
-Mats Basicos / Mineracao;CMIN3;CSNMINERACAO;ON      N2;1110559345;0.271;13.403
-Mats Basicos / Mineracao;VALE3;VALE;ON      NM;4427123466;12.905;13.403
-Mats Basicos / Quimicos;BRKM5;BRASKEM;PNA     N1;265877867;0.232;0.232
-Mats Basicos / Sid Metalurgia;GGBR4;GERDAU;PN      N1;1246339197;1.117;2.037
-Mats Basicos / Sid Metalurgia;GOAU4;GERDAU MET;PN      N1;660411219;0.348;2.037
-Mats Basicos / Sid Metalurgia;CSNA3;SID NACIONAL;ON;600865451;0.362;2.037
-Mats Basicos / Sid Metalurgia;USIM5;USIMINAS;PNA     N1;515117391;0.21;2.037
-Petroleo/ Gas e Biocombustiveis;RRRP3;3R PETROLEUM;ON      NM;238441689;0.309;18.416
-Petroleo/ Gas e Biocombustiveis;CSAN3;COSAN;ON      NM;1168966848;0.782;18.416
-Petroleo/ Gas e Biocombustiveis;PETR3;PETROBRAS;ON      N2;2150495108;4.278;18.416
-Petroleo/ Gas e Biocombustiveis;PETR4;PETROBRAS;PN      N2;4566445852;8.426;18.416
-Petroleo/ Gas e Biocombustiveis;RECV3;PETRORECSA;ON      NM;275166463;0.276;18.416
-Petroleo/ Gas e Biocombustiveis;PRIO3;PETRORIO;ON  ATZ NM;804019521;1.737;18.416
-Petroleo/ Gas e Biocombustiveis;RAIZ4;RAIZEN;PN      N2;1210920604;0.177;18.416
-Petroleo/ Gas e Biocombustiveis;UGPA3;ULTRAPAR;ON      NM;1087228062;1.204;18.416
-Petroleo/ Gas e Biocombustiveis;VBBR3;VIBRA;ON      NM;1114613709;1.227;18.416
-Saude/Comercio Distr.;HYPE3;HYPERA;ON      NM;409490388;0.554;2.127
-Saude/Comercio Distr.;RADL3;RAIADROGASIL;ON      NM;1280079284;1.573;2.127
-Saude/SM Hosp An.Diag;FLRY3;FLEURY;ON      NM;240822651;0.18;2.53
-Saude/SM Hosp An.Diag;HAPV3;HAPVIDA;ON      NM;4394332306;0.816;2.53
-Saude/SM Hosp An.Diag;RDOR3;REDE D OR;ON      NM;1144776793;1.534;2.53
-Tec.Informacao/Programas Servs;LWSA3;LWSA;ON      NM;428737358;0.089;0.777
-Tec.Informacao/Programas Servs;TOTS3;TOTVS;ON      NM;514122351;0.688;0.777
-Telecomunicacao;VIVT3;TELEF BRASIL;ON;408343528;0.955;1.601
-Telecomunicacao;TIMS3;TIM;ON      NM;807896814;0.646;1.601
-Utilidade Publ / Agua Saneamento;SBSP3;SABESP;ON      NM;340001799;1.376;1.376
-Utilidade Publ / Energ Eletrica;CMIG4;CEMIG;PN      N1;1868640510;0.94;10.839
-Utilidade Publ / Energ Eletrica;CPLE6;COPEL;PNB     N2;1679233590;0.806;10.839
-Utilidade Publ / Energ Eletrica;CPFE3;CPFL ENERGIA;ON      NM;187732538;0.294;10.839
-Utilidade Publ / Energ Eletrica;ELET3;ELETROBRAS;ON      N1;1945040784;3.441;10.839
-Utilidade Publ / Energ Eletrica;ELET6;ELETROBRAS;PNB     N1;268733136;0.531;10.839
-Utilidade Publ / Energ Eletrica;ENGI11;ENERGISA;UNT     N2;326265871;0.72;10.839
-Utilidade Publ / Energ Eletrica;ENEV3;ENEVA;ON      NM;1579630820;0.946;10.839
-Utilidade Publ / Energ Eletrica;EGIE3;ENGIE BRASIL;ON      NM;255236961;0.555;10.839
-Utilidade Publ / Energ Eletrica;EQTL3;EQUATORIAL;ON      NM;1155467134;1.79;10.839
-Utilidade Publ / Energ Eletrica;TAEE11;TAESA;UNT     N2;218568234;0.353;10.839
-Utilidade Publ / Energ Eletrica;TRPL4;TRAN PAULIST;PN      N1;395801044;0.463;10.839
+Diversos;COGN3;COGNA ON;ON      NM;1814903540;0.146;2.283
+Diversos;RENT3;LOCALIZA;ON      NM;863138188;1.765;2.283
+Diversos;VAMO3;VAMOS;ON      NM;498860020;0.214;2.283
+Diversos;YDUQ3;YDUQS PART;ON      NM;289347914;0.158;2.283
+Financ e Outros / Explor Imoveis;ALOS3;ALLOS;ON      NM;532616595;0.564;1.119
+Financ e Outros / Explor Imoveis;IGTI11;IGUATEMI S.A;UNT     N1;217622138;0.228;1.119
+Financ e Outros / Explor Imoveis;MULT3;MULTIPLAN;ON      N2;268505432;0.327;1.119
+Financ e Outros / Holdings Divers;ITSA4;ITAUSA;PN      N1;5560910983;2.75;2.75
+Financ e Outros / Interms Financs;BBDC3;BRADESCO;ON      N1;1489259656;0.818;17.533
+Financ e Outros / Interms Financs;BBDC4;BRADESCO;PN      N1;5135772281;3.088;17.533
+Financ e Outros / Interms Financs;BBAS3;BRASIL;ON      NM;2842247534;3.672;17.533
+Financ e Outros / Interms Financs;BPAC11;BTGP BANCO;UNT     N2;1150645866;1.761;17.533
+Financ e Outros / Interms Financs;ITUB4;ITAUUNIBANCO;PN      N1;4740126023;7.726;17.533
+Financ e Outros / Interms Financs;SANB11;SANTANDER BR;UNT EJ;342918449;0.468;17.533
+Financ e Outros / Previd  Seguros;BBSE3;BBSEGURIDADE;ON      NM;671750768;1.102;1.222
+Financ e Outros / Previd  Seguros;IRBR3;IRBBRASIL RE;ON      NM;81838843;0.12;1.222
+Financeiro e Outros/Servicos Financeiros Diversos;B3SA3;B3;ON      NM;5602790110;3.011;3.311
+Financeiro e Outros/Servicos Financeiros Diversos;CIEL3;CIELO;ON      NM;1095462329;0.3;3.311
+Mats Basicos / Madeira e Papel;DXCO3;DEXCO;ON      NM;302768240;0.104;2.602
+Mats Basicos / Madeira e Papel;KLBN11;KLABIN S/A;UNT     N2;777422123;0.814;2.602
+Mats Basicos / Madeira e Papel;SUZB3;SUZANO S.A.;ON      NM;664114223;1.684;2.602
+Mats Basicos / Mineracao;BRAP4;BRADESPAR;PN      N1;250992819;0.226;13.366
+Mats Basicos / Mineracao;CMIN3;CSNMINERACAO;ON      N2;1110559345;0.275;13.366
+Mats Basicos / Mineracao;VALE3;VALE;ON      NM;4427123466;12.865;13.366
+Mats Basicos / Quimicos;BRKM5;BRASKEM;PNA     N1;265877867;0.237;0.237
+Mats Basicos / Sid Metalurgia;GGBR4;GERDAU;PN      N1;1246339197;1.121;2.044
+Mats Basicos / Sid Metalurgia;GOAU4;GERDAU MET;PN      N1;660411219;0.35;2.044
+Mats Basicos / Sid Metalurgia;CSNA3;SID NACIONAL;ON;600865451;0.363;2.044
+Mats Basicos / Sid Metalurgia;USIM5;USIMINAS;PNA     N1;515117391;0.21;2.044
+Petroleo/ Gas e Biocombustiveis;RRRP3;3R PETROLEUM;ON      NM;238441689;0.309;18.13
+Petroleo/ Gas e Biocombustiveis;CSAN3;COSAN;ON      NM;1168966848;0.782;18.13
+Petroleo/ Gas e Biocombustiveis;PETR3;PETROBRAS;ON      N2;2150495108;4.204;18.13
+Petroleo/ Gas e Biocombustiveis;PETR4;PETROBRAS;PN      N2;4566445852;8.243;18.13
+Petroleo/ Gas e Biocombustiveis;RECV3;PETRORECSA;ON      NM;275166463;0.274;18.13
+Petroleo/ Gas e Biocombustiveis;PRIO3;PETRORIO;ON  ATZ NM;804019521;1.71;18.13
+Petroleo/ Gas e Biocombustiveis;RAIZ4;RAIZEN;PN      N2;1210920604;0.179;18.13
+Petroleo/ Gas e Biocombustiveis;UGPA3;ULTRAPAR;ON      NM;1087228062;1.194;18.13
+Petroleo/ Gas e Biocombustiveis;VBBR3;VIBRA;ON      NM;1114613709;1.235;18.13
+Saude/Comercio Distr.;HYPE3;HYPERA;ON      NM;409490388;0.565;2.155
+Saude/Comercio Distr.;RADL3;RAIADROGASIL;ON      NM;1280079284;1.59;2.155
+Saude/SM Hosp An.Diag;FLRY3;FLEURY;ON      NM;240822651;0.179;2.534
+Saude/SM Hosp An.Diag;HAPV3;HAPVIDA;ON      NM;4394332306;0.82;2.534
+Saude/SM Hosp An.Diag;RDOR3;REDE D OR;ON      NM;1144776793;1.535;2.534
+Tec.Informacao/Programas Servs;LWSA3;LWSA;ON      NM;428737358;0.092;0.79
+Tec.Informacao/Programas Servs;TOTS3;TOTVS;ON      NM;514122351;0.698;0.79
+Telecomunicacao;VIVT3;TELEF BRASIL;ON;408343528;0.963;1.614
+Telecomunicacao;TIMS3;TIM;ON      NM;807896814;0.651;1.614
+Utilidade Publ / Agua Saneamento;SBSP3;SABESP;ON      NM;340001799;1.408;1.408
+Utilidade Publ / Energ Eletrica;CMIG4;CEMIG;PN      N1;1868640510;0.962;11.02
+Utilidade Publ / Energ Eletrica;CPLE6;COPEL;PNB     N2;1679233590;0.824;11.02
+Utilidade Publ / Energ Eletrica;CPFE3;CPFL ENERGIA;ON      NM;187732538;0.297;11.02
+Utilidade Publ / Energ Eletrica;ELET3;ELETROBRAS;ON      N1;1945040784;3.503;11.02
+Utilidade Publ / Energ Eletrica;ELET6;ELETROBRAS;PNB     N1;268733136;0.538;11.02
+Utilidade Publ / Energ Eletrica;ENGI11;ENERGISA;UNT     N2;326265871;0.729;11.02
+Utilidade Publ / Energ Eletrica;ENEV3;ENEVA;ON      NM;1579630820;0.966;11.02
+Utilidade Publ / Energ Eletrica;EGIE3;ENGIE BRASIL;ON      NM;255236961;0.558;11.02
+Utilidade Publ / Energ Eletrica;EQTL3;EQUATORIAL;ON      NM;1155467134;1.823;11.02
+Utilidade Publ / Energ Eletrica;TAEE11;TAESA;UNT     N2;218568234;0.355;11.02
+Utilidade Publ / Energ Eletrica;TRPL4;TRAN PAULIST;PN      N1;395801044;0.465;11.02
